@@ -54,6 +54,7 @@ body {
 
 .hero span {
   background: linear-gradient(90deg, #6c63ff, #9f7aea);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
